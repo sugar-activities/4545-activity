@@ -1,0 +1,8 @@
+[Activity]
+name = Analyze Journal
+activity_version = 5
+bundle_id = org.sugarlabs.AnalyzeJournal
+exec = sugar-activity activity.AnalyzeJournal
+icon = analyzejournal
+license = GPLv3+
+summary = chart of Sugar Journal activity
